@@ -38,7 +38,8 @@ Destaco-me no desenvolvimento e implementação de frameworks de automação de 
 ---
 
 ## 📫 Let's Connect?
-Acredito que a tecnologia move o mundo, mas a criatividade e a "mão na massa" são o que resolvem problemas reais. Vamos conversar sobre desenvolvimento, inovação ou apenas trocar um café virtual!
+Acredito que a tecnologia move o mundo, mas a criatividade e a "mão na massa" são o que resolvem problemas reais.
+Vamos conversar sobre desenvolvimento, inovação ou apenas trocar um café virtual!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhara-rei)
 
