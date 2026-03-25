@@ -1,6 +1,6 @@
 # Olá, eu sou a Dhara! 👋 
 
-### 👩‍💻 Android & Full-stack Developer in Training (FIAP)
+### 👩‍💻  Full-stack Developer in Training (FIAP)
 
 Sou uma entusiasta da tecnologia em transição de carreira, focada em criar soluções que facilitem a vida das pessoas. 
 Unindo minha experiência como **microempreendedora e confeiteira** para o desenvolvimento de software, trago um olhar apurado para resolução de problemas, organização e foco no cliente.
