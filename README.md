@@ -1,4 +1,4 @@
-#SpringApplication.run(HelloWorld.Application.class, args);
+#System.out.print("Bem vindos ao meu GitHub!");
 
 <div align="center">
   <img src="banner.svg?v=2" width="100%" alt="Banner Dhara Rei">
