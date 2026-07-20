@@ -1,11 +1,11 @@
 #SpringApplication.run(HelloWorld.Application.class, args);
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DharaRei/DharaRei/refs/heads/main/banner.svg" width="100%" alt="Banner Dhara Rei">
+  <img src="banner.svg?v=2" width="100%" alt="Banner Dhara Rei">
 </div>
-<div align="center">
 
 <!-- BOTÃO DO LINKEDIN -->
+<div align="center">
   <a href="COLE_O_LINK_DO_SEU_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-95BDD7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
