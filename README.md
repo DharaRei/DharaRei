@@ -1,12 +1,15 @@
-# Olá, eu sou a Dhara! 👋 
+#SpringApplication.run(HelloWorld.Application.class, args);
 
-### 👩‍💻  Full-stack Developer in Training (FIAP)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DharaRei/DharaRei/refs/heads/main/banner.svg" width="100%" alt="Banner Dhara Rei">
+</div>
+<div align="center">
 
-Sou uma entusiasta da tecnologia em transição de carreira, focada em criar soluções que facilitem a vida das pessoas. 
-Unindo minha experiência como **microempreendedora e confeiteira** para o desenvolvimento de software, trago um olhar apurado para resolução de problemas, organização e foco no cliente.
-Destaco-me no desenvolvimento e implementação de frameworks de automação de testes para garantir a confiabilidade, segurança e facilidade de uso de soluções web, mobile e API. Possuo um histórico comprovado de projetos acadêmicos entregando soluções inovadoras alinhadas ao **ESG** e aos rigorosos padrões de qualidade da FIAP.
-
----
+<!-- BOTÃO DO LINKEDIN -->
+  <a href="COLE_O_LINK_DO_SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-95BDD7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  </div>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -24,17 +27,16 @@ Destaco-me no desenvolvimento e implementação de frameworks de automação de 
 ## 🌍 Languages
 - 🇧🇷 **Português:** Nativo
 - 🇺🇸 **Inglês:** Intermediário (Instrumental)
-- 🇫🇷 **Francês:** Básico
 - 🤟 **Libras (Língua Brasileira de Sinais):** Comunicação básica
 
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DharaRei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharaRei&layout=compact&langs_count=7&theme=dracula"/>
-</p>
 
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.com/api?username=DharaRei&show_icons=true&include_all_commits=true&count_private=true&title_color=f472b6&text_color=F2a7b5&icon_color=f472b6&bg_color=0d1117&border_color=F2a7b5" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.com/api/top-langs/?username=DharaRei&layout=compact&langs_count=7&title_color=f472b6&text_color=F2a7b5&bg_color=0d1117&border_color=F2a7b5" alt="Linguagens mais usadas" />
+</p>
 ---
 
 ## 📫 Let's Connect?
