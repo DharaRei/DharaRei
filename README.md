@@ -1,7 +1,7 @@
-#System.out.print("Bem vindos ao meu GitHub!");
+## System.out.print("Bem vindos ao meu GitHub!");
 
 <div align="center">
-  <img src="banner.svg?v=2" width="100%" alt="Banner Dhara Rei">
+  <img src="banner.svg?v=4" width="100%" alt="Banner Dhara Rei">
 </div>
 
 <!-- BOTÃO DO LINKEDIN -->
@@ -34,14 +34,17 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.com/api?username=DharaRei&show_icons=true&include_all_commits=true&count_private=true&title_color=f472b6&text_color=F2a7b5&icon_color=f472b6&bg_color=0d1117&border_color=F2a7b5" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.com/api/top-langs/?username=DharaRei&layout=compact&langs_count=7&title_color=f472b6&text_color=F2a7b5&bg_color=0d1117&border_color=F2a7b5" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=DharaRei&cc=F2a7b5&tc=#0e2c4b&ic=f472b6&bc=0d1117" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DharaRei&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </p>
+
+---
+
+
 ---
 
 ## 📫 Let's Connect?
-Acredito que a tecnologia move o mundo, mas a criatividade e a "mão na massa" são o que resolvem problemas reais.
-Vamos conversar sobre desenvolvimento, inovação ou apenas trocar um café virtual!
+Gostou do que viu? Vamos conversar sobre tecnologia, oportunidades de inovação ou como posso agregar valor ao seu time.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhara-rei)
 
