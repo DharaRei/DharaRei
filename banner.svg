@@ -51,7 +51,7 @@
   <text class="name2" x="35" y="183" font-family="Courier New, monospace" font-size="64" font-weight="bold" fill="#F2a7b5" letter-spacing="6">REI</text>
 
   <!-- Subtitle -->
-  <text class="sub" x="36" y="208" font-family="Courier New, monospace" font-size="13" fill="#8b7ec8" letter-spacing="1">Full Stack Developer </text>
+  <text class="sub" x="36" y="208" font-family="Courier New, monospace" font-size="13" fill="#8b7ec8" letter-spacing="1">Back-end Developer </text>
 
   <!-- Divider -->
   <line class="divider" x1="35" y1="224" x2="600" y2="224" stroke="#2a2560" stroke-width="1"/>
